@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c3e343-1c00-4b87-848b-309f02af971b" name="Changes" comment="vytvoření třídy auto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4c3e343-1c00-4b87-848b-309f02af971b" name="Changes" comment="class Book" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712684712652</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="class Book">
+      <option name="closed" value="true" />
+      <created>1712689410593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712689410593</updated>
+    </task>
+    <task id="LOCAL-00008" summary="class Book">
+      <option name="closed" value="true" />
+      <created>1712689426033</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712689426033</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vytvoření třídy auto" />
-    <option name="LAST_COMMIT_MESSAGE" value="vytvoření třídy auto" />
+    <MESSAGE value="class Book" />
+    <option name="LAST_COMMIT_MESSAGE" value="class Book" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
